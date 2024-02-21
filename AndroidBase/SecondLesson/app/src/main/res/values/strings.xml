@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SecondLesson</string>
+    <string name="empty"> </string>
+    <string name="format">%s</string>
+    <string name="addition"><big><b> + </b></big></string>
+    <string name="subtraction"><big><b> - </b></big></string>
+    <string name="multiplication"><big><b> * </b></big></string>
+    <string name="division"><big><b> / </b></big></string>
+    <string name="no_value"><big><b> ви не ввели значення :( </b></big></string>
+    <string name="divided_by_zero"><big><b> на нуль ділити не можна :( </b></big></string>
+    <string name="bird_name"><big><b> Назва пташки </b></big></string>
+    <string name="bird_age"><big><b> вік </b></big></string>
+    <string name="bird_height"><big><b> висота </b></big></string>
+    <string name="TAG"><big><b> TAG </b></big></string>
+    <string name="name"><big><b> Імя </b></big></string>
+    <string name="login"><big><b> логін </b></big></string>
+    <string name="password"><big><b> пароль </b></big></string>
+    <string name="some_change"><big><b> some change </b></big></string>
+
+</resources>
