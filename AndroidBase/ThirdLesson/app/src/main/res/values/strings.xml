@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ThirdLesson</string>
+    <string name="empty"> </string>
+    <string name="formatTwo">%s%s</string>
+    <string name="format">%s</string>
+    <string name="addition"><big><b>"+"</b></big></string>
+    <string name="subtraction"><big><b>"-"</b></big></string>
+    <string name="multiplication"><big><b>"*"</b></big></string>
+    <string name="division"><big><b>"/"</b></big></string>
+    <string name="no_value"><big><b> "ви не ввели значення :(" </b></big></string>
+    <string name="divided_by_zero"><big><b> "на нуль ділити не можна :(" </b></big></string>
+    <string name="zero"><big><b>0</b></big></string>
+    <string name="one"><big><b>1</b></big></string>
+    <string name="two"><big><b>2</b></big></string>
+    <string name="three"><big><b>3</b></big></string>
+    <string name="four"><big><b>4</b></big></string>
+    <string name="five"><big><b>5</b></big></string>
+    <string name="six"><big><b>6</b></big></string>
+    <string name="seven"><big><b>7</b></big></string>
+    <string name="eight"><big><b>8</b></big></string>
+    <string name="nine"><big><b>9</b></big></string>
+    <string name="equals"><big><b>"="</b></big></string>
+    <string name="reset"><big><b><s>"reset"</s></b></big></string>
+    <string name="start"><big><b>"start"</b></big></string>
+    <string name="pushStart"><big><b>"натисніть start"</b></big></string>
+    <string name="draw"><big><b>"нічия ;)"</b></big></string>
+    <string name="finish"><big><b>"finish"</b></big></string>
+    <string name="zeroes"><big><b>"o"</b></big></string>
+    <string name="crosses"><big><b>"x"</b></big></string>
+    <string name="turn_zero"><big><b>"ходить гравець O"</b></big></string>
+    <string name="turn_cross"><big><b>"ходить гравець X"</b></big></string>
+    <string name="win_cross"><big><b>"Переміг гравець X !!!"</b></big></string>
+    <string name="win_zero"><big><b>"Переміг гравець O !!!"</b></big></string>
+    <string name="right"><big><b>&#x2192;&#x2192;&#x2192;</b></big></string>
+    <string name="left"><big><b>&#x2190;&#x2190;&#x2190;</b></big></string>
+
+</resources>
