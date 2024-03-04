@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FourthLesson</string>
+    <string name="empty"> </string>
+    <string name="start"><big><b>"start"</b></big></string>
+    <string name="restart"><big><b>"нові гравці"</b></big></string>
+    <string name="pushStart"><big><b>"натисніть start"</b></big></string>
+    <string name="draw"><big><b>"нічия ;)"</b></big></string>
+    <string name="finish"><big><b>"finish"</b></big></string>
+    <string name="zeroes"><big><b>"o"</b></big></string>
+    <string name="crosses"><big><b>"x"</b></big></string>
+    <string name="turn_zero"><big><b>"ходить гравець O"</b></big></string>
+    <string name="turn_cross"><big><b>"ходить гравець X"</b></big></string>
+    <string name="win_player"><big><b>"Перемога за %s !!!"</b></big></string>
+    <string name="format2"><big><b>"%s%s"</b></big></string>
+    <string name="player_cross"><big><b>"гравець X: "</b></big></string>
+    <string name="player_zero"><big><b>"гравець 0: "</b></big></string>
+    <string name="start_game"><big><b>"start game"</b></big></string>
+    <string name="fill_names"><big><b>"введіть імена"</b></big></string>
+    <string name="exit_dialog"><big><b>"Бажаєте зіграти ще один раз?"</b></big></string>
+    <string name="exit"><big><b>"Завершення гри"</b></big></string>
+    <string name="no"><big><b>"НІ"</b></big></string>
+    <string name="yes"><big><b>"ТАК"</b></big></string>
+    <string name="add_phone"><big><b>"додати телефон"</b></big></string>
+    <string name="name"><big><b>"Імя"</b></big></string>
+    <string name="phone"><big><b>"телефон"</b></big></string>
+    <string name="fill_name_phone"><big><b>"введіть імя і телефон"</b></big></string>
+    <string name="add_name_phone"><big><b>"додати імя і телефон"</b></big></string>
+    <string name="added_numbers"><big><b>"додано %s телефона(ів)"</b></big></string>
+    <string name="added_0_numbers"><big><b>"ще не додано телефонів"</b></big></string>
+    <string name="score"><big><b>"%s   %s : %s   %s"</b></big></string>
+</resources>

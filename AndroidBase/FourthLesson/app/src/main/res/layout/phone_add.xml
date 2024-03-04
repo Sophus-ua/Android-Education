@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/my_background_01"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:id="@+id/infoBoard"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/transparent_01"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/added_0_numbers"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="12dp"
+        >
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:background="@drawable/transparent_01"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/name"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@color/gray"
+            />
+
+        <EditText
+            android:id="@+id/nameEdit"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="5dp"
+            android:background="@drawable/transparent_01"
+            android:textSize="19sp"
+            android:textStyle="bold"
+            android:ems="12"
+            android:textColor="@color/white"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp"
+        android:layout_marginStart="12dp">
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:background="@drawable/transparent_01"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/phone"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@color/gray"
+            />
+
+        <EditText
+            android:id="@+id/phoneEdit"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="5dp"
+            android:textSize="19sp"
+            android:textStyle="bold"
+            android:background="@drawable/transparent_01"
+            android:ems="12"
+            android:inputType="phone"
+            android:textColor="@color/white"
+             />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/addPhone2"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:onClick="click"
+        android:text="@string/fill_name_phone"
+        android:backgroundTint="@color/purple_200"
+        android:textColor="@color/white"
+        android:enabled="false"
+        />
+
+</LinearLayout>
